@@ -1,4 +1,3 @@
-Here’s a professional and well-structured **README.md** file tailored to your CV and GitHub profile:
 
 ---
 
